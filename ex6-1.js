@@ -3,5 +3,5 @@ function sayhello61(){
 }
 
 function saygoodbye1(){
-  alert('goodbye!');
+  alert('Goodbye!');
 }
