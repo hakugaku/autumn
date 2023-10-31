@@ -6,5 +6,5 @@ function imgchange1(){
 
 function imgchange2() {
 document.getElementById('logo').src = 
-'./image/logo.png';
+'./image/logo.jpg';
 }
