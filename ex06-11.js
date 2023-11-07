@@ -12,8 +12,6 @@ document.timer.moji.value ="";}}
 function startfnc(){
   setlnterval("hyoji()",1000);}
 
-setlnterval("hyoji()",1000);
-
 const str ='Mozilla';
   console.log(str.substr(1,2));
   //expected output:"oz"
