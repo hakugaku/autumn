@@ -1,1 +1,7 @@
-function es(){
+function page(){
+
+
+}
+
+function page2(){
+}
