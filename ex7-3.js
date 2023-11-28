@@ -4,5 +4,4 @@ function bmi(){
   var z = y/100
   var a = z*z
   var b = w/a
-  alert(b);
-}
+  alert(b);}
