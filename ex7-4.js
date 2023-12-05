@@ -1,7 +1,7 @@
 function nazo(){
-if (document.getElementByld('answer').value=='夢'){
+if (document.getElementById('answer').value=='夢'){
   alert('あたり');
-}else{document.getElementByld('answer').value!='夢'
+}else{document.getElementById('answer').value!='夢'
   alert('はずれ')
 }
 }
