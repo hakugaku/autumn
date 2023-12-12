@@ -6,5 +6,5 @@ function year() {
     } else {
         result = '平年';
     }
-    alert('西暦' + year711 + '年は' + result + 'です。');
+    alert('西暦' + year1 + '年は' + result + 'です。');
 }
