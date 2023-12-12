@@ -6,8 +6,5 @@ function year() {
     } else {
         result = '平年';
     }
-
-    document.getElementById('result2').innerText = '西暦' + year711 + '年は' + result + 'です。';
-
     alert('西暦' + year711 + '年は' + result + 'です。');
 }
